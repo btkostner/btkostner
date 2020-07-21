@@ -1,5 +1,5 @@
 <div align="center">
-  <br>
-	<img src="header.svg" width="800" height="200">
+	<br>
+	<img src="https://raw.githubusercontent.com/btkostner/btkostner/master/header.svg">
 	<br>
 </div>
