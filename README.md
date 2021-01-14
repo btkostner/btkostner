@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/btkostner/btkostner/master/header.svg">
+<a href="#">
+  <img src="https://raw.githubusercontent.com/btkostner/btkostner/master/header.svg">
+</a>
 
 I do full stack web development. Yes, I mean **full** stack. Everything from
 Nuxt.JS and CSS, to Elixir, Phoenix, to Terraform and Ansible. I consider myself
